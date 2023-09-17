@@ -96,8 +96,3 @@ By viewing Confusion Matrix it is easily deduced that SGD model is the best mode
 
 The most succesful model was found to be Stochastic Gradient Descent Classifier for Role classification based on their resume.
 
-# Prajwal Uday
-
-Connect with me on Linkedin: https://www.linkedin.com/in/prajwal-uday-1b9678229/
-
-Check out my Github profile: https://github.com/prajwal-144
